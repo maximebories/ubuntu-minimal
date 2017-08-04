@@ -2,6 +2,8 @@
 
 This is my personnal script to set up a minimal Ubuntu workstation.
 
+![alt text](https://raw.githubusercontent.com/maximebories/ubuntu-minimal/master/style.png "style.png")
+
 ## Requirement
 
  - Ubuntu installed with the [minimal image](https://help.ubuntu.com/community/Installation/MinimalCD)
