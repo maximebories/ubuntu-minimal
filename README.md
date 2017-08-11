@@ -2,7 +2,7 @@
 
 This is my personnal script to set up a minimal Ubuntu workstation.
 
-![alt text](https://raw.githubusercontent.com/maximebories/ubuntu-minimal/master/style.png "style.png")
+![alt text](https://raw.githubusercontent.com/maximebories/ubuntu-minimal/artful/style.png "style.png")
 
 ## Requirement
 
